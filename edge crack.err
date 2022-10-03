@@ -1,0 +1,25 @@
+/COM,ANSYS RELEASE 15.0    UP20131014       22:40:03    03/09/2021
+
+ *** ERROR ***                           CP =       3.609   TIME= 22:40:15
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+
+ *** ERROR ***                           CP =       3.656   TIME= 22:40:16
+ An unexpected error ( SIG$SEGV ) has occurred...  ANSYS internal data   
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+/COM,ANSYS RELEASE 15.0    UP20131014       22:40:52    03/09/2021
+
+ *** ERROR ***                           CP =       5.609   TIME= 22:42:46
+ This function requires selected lines.                                  
+  No lines are currently selected.                                       
+
+ *** WARNING ***                         CP =      12.188   TIME= 22:53:02
+ Shape testing revealed that 3 of the 26 new or modified elements        
+ violate shape warning limits.  To review test results, please see the   
+ output file or issue the CHECK command.                                 
